@@ -23,6 +23,8 @@ Applying Guassian filter to highlight features.
 
 Models Used: CNN (own), Vision Transformers (ViT), ResNet, DenseNet, EfficientNetV2B0, InceptionV3.
 
+![Methodology](images/Methodology.png)
+
 ## Results
 
 ### Messidor 1
