@@ -39,11 +39,11 @@ Under Sampling - Highest Accuracy: 58%, Best Model: EfficientNetV2B0
 
 ### Messidor 2
 Highest Accuracy: 78%, Best Model: EfficientNetV2B0 
-[Messidor2](images/Messidor2.png)
+![Messidor2](images/Messidor2.png)
 
 ### Aptos
 Highest Accuracy: 95%, Best Model: EfficientNetV2B0
-[Aptos](images/Aptos.png)
+![Aptos](images/Aptos.png)
 
 ## Acknowledgement
 Gratitute to Department of Computer Science at Sam Houston State University for their support and resources.
