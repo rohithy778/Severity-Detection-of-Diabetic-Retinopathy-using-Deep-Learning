@@ -28,16 +28,22 @@ Models Used: CNN (own), Vision Transformers (ViT), ResNet, DenseNet, EfficientNe
 ## Results
 
 ### Messidor 1
-Before Augmentation - Highest Accuracy: 50%, Best Model: Own CNN (model 6 ).  
+Before Augmentation - Highest Accuracy: 50%, Best Model: Own CNN (model 6 ). 
+![Messidor1_Before_Aug](images/Messidor1_Before_Aug.png)
+
 After Augmentaion :-  
-Over Sampling - Highest Accuracy: 52 %, Best Model: DenseNet  
+Over Sampling - Highest Accuracy: 52%, Best Model: DenseNet
 Under Sampling - Highest Accuracy: 58%, Best Model: EfficientNetV2B0
+![Messidor1 After Aug](images/Messidor1_After_Aug.png)
+
 
 ### Messidor 2
 Highest Accuracy: 78%, Best Model: EfficientNetV2B0 
+[Messidor2](images/Messidor2.png)
 
 ### Aptos
 Highest Accuracy: 95%, Best Model: EfficientNetV2B0
+[Aptos](images/Aptos.png)
 
 ## Acknowledgement
 Gratitute to Department of Computer Science at Sam Houston State University for their support and resources.
